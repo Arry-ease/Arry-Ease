@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/arry_ease" target="blank"><img src="https://img.shields.io/twitter/follow/arry_ease?logo=twitter&style=for-the-badge" alt="arry_ease" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript and Next.Js**
+- 🌱 Currently learning **Typescript and Next.Js**
 
-- 📫 How to reach me **arghya0017@gmail.com**
+- 📫 Reach out **arghya0017@gmail.com**
 
-- ⚡ **We'll transform ideas into reality fueled by the synergy of Red Bull/Coffee and code! ☕/🐂=🚀**
+- ⚡ **Red Bull/Coffee and code! ☕/🐂+Code =🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
