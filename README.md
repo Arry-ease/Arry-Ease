@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/userupload/9495255/file/original-a0f72df060c2e1f5299cc7819d86cccb.jpg?resize=1200x300)]
 <h1 align="center">👋Hey there, I'm Arghya Jana</h1>
 <h3 align="center">A versatile full-stack developer with a penchant for turning lines of code into captivating experiences.</h3>
-<img align ="right" alt = "Doinn'" width ="https://cdn.dribbble.com/users/566817/screenshots/6046767/media/c0865a47e4b667d401e21781c96f0efe.gif">
+<img align ="right" alt = "Doinn'" width ="400" src = "https://cdn.dribbble.com/users/255/screenshots/10481930/media/314c00fe1fecd4dc565a8b642a60c427.png?resize=1000x750&vertical=center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arry-ease&label=Profile%20views&color=0e75b6&style=flat" alt="arry-ease" /> </p>
 
